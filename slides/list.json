@@ -1,1 +1,8 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "what-is-cli.md",
+        "why-use-cli.md"
+    ],
+    "why-git-cli.md"
+]
