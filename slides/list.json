@@ -23,5 +23,6 @@
     "git-cli-basics.md",
     "git-init.md",
     "git-status.md",
-    "git-add.md"
+    "git-add.md",
+    "git-commit.md"
 ]
