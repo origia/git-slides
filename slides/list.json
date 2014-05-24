@@ -14,7 +14,14 @@
     "pwd.md",
     "cd.md",
     "ls.md",
-    "cp.md",
+    "touch.md",
     "mkdir.md",
-    "why-git-cli.md"
+    "cp.md",
+    "mv.md",
+    "rm.md",
+    "why-git-cli.md",
+    "git-cli-basics.md",
+    "git-init.md",
+    "git-status.md",
+    "git-add.md"
 ]
