@@ -4,5 +4,10 @@
         "what-is-cli.md",
         "why-use-cli.md"
     ],
+    [
+        "terminal.md",
+        "terminal_2.md"
+    ],
+    "cli-basics.md",
     "why-git-cli.md"
 ]
