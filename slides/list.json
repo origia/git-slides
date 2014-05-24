@@ -9,5 +9,12 @@
         "terminal_2.md"
     ],
     "cli-basics.md",
+    "before-starting.md",
+    "man.md",
+    "pwd.md",
+    "cd.md",
+    "ls.md",
+    "cp.md",
+    "mkdir.md",
     "why-git-cli.md"
 ]
