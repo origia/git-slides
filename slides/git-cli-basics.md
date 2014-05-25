@@ -6,7 +6,9 @@
 * `git add` : ファイルをgitに追加
 * `git commit` : 新しいコミットの作成
 * `git log` : 履歴の表示
+* `git remote` : リモートの管理
 * `git push` : サーバーにオブジェクトを送信する
 * `git pull` : サーバーからオブジェクトを受信・マージ
+* `git branch` : ブランチの管理
 * `git merge` : ブランチのマージ
 * `git rebase` : ブランチの派生元の変更

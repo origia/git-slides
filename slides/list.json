@@ -24,5 +24,9 @@
     "git-init.md",
     "git-status.md",
     "git-add.md",
-    "git-commit.md"
+    "git-commit.md",
+    "git-log.md",
+    "git-remote.md",
+    "git-push.md",
+    "git-pull.md"
 ]
