@@ -8,20 +8,24 @@
         "terminal.md",
         "terminal_2.md"
     ],
-    "cli-basics.md",
-    "before-starting.md",
-    "man.md",
-    "pwd.md",
-    "cd.md",
-    "ls.md",
-    "touch.md",
-    "mkdir.md",
-    "cp.md",
-    "mv.md",
-    "rm.md",
-    "why-git-cli.md",
-    "git-cli-basics.md",
     [
+        "cli-basics.md",
+        "before-starting.md"
+    ],
+    [
+        "man.md",
+        "pwd.md",
+        "cd.md",
+        "ls.md",
+        "touch.md",
+        "mkdir.md",
+        "cp.md",
+        "mv.md",
+        "rm.md"
+    ],
+    "why-git-cli.md",
+    [
+        "git-cli-basics.md",
         "git-init.md",
         "git-status.md",
         "git-add.md",
@@ -31,11 +35,12 @@
         "git-push.md",
         "git-pull.md"
     ],
-    "git-cli-branch.md",
     [
+        "git-cli-branch.md",
         "git-branch.md",
         "git-checkout.md",
         "git-merge.md",
         "git-rebase.md"
-    ]
+    ],
+    "conflict-resolution.md"
 ]
