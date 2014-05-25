@@ -21,12 +21,21 @@
     "rm.md",
     "why-git-cli.md",
     "git-cli-basics.md",
-    "git-init.md",
-    "git-status.md",
-    "git-add.md",
-    "git-commit.md",
-    "git-log.md",
-    "git-remote.md",
-    "git-push.md",
-    "git-pull.md"
+    [
+        "git-init.md",
+        "git-status.md",
+        "git-add.md",
+        "git-commit.md",
+        "git-log.md",
+        "git-remote.md",
+        "git-push.md",
+        "git-pull.md"
+    ],
+    "git-cli-branch.md",
+    [
+        "git-branch.md",
+        "git-checkout.md",
+        "git-merge.md",
+        "git-rebase.md"
+    ]
 ]

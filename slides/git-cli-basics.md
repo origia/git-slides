@@ -1,4 +1,6 @@
-## GitのCLIの基礎
+## GitのCLI
+
+### 基礎編
 
 * `git init` : レポジトリの初期化
 * `git clone` : レポジトリのダウンロード
@@ -9,6 +11,3 @@
 * `git remote` : リモートの管理
 * `git push` : サーバーにオブジェクトを送信する
 * `git pull` : サーバーからオブジェクトを受信・マージ
-* `git branch` : ブランチの管理
-* `git merge` : ブランチのマージ
-* `git rebase` : ブランチの派生元の変更
